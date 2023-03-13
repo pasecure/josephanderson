@@ -5,10 +5,33 @@ import clsx from 'clsx'
 import Head from 'next/head'
 
 import { EmploymentFormsHeader, EmploymentFormsFooter } from '@/components/layout'
+import { NextSeo } from 'next-seo';
+import { Helmet } from 'react-helmet';
+
+const SEO = {
+  title: 'Explore - Joseph Sullivan Anderson',
+  description: 'Joseph Sullivan Anderson',
+  openGraph: {
+    type: 'website',
+    url: 'https://www.pasecurities.net/',
+    title: 'Explore - Joseph Sullivan Anderson',
+    description: 'Joseph Sullivan Anderson',
+  },
+};
+
+
 
 const Index: NextPage = () => {
   return (
     <>
+    <NextSeo {...SEO} />
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Explore - Joseph Sullivan Anderson</title>
+        <meta name="description" content="Joseph Sullivan Anderson" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </Helmet>
+
       <Head>
         <title>Joseph</title>
         <meta name="description" content="Joseph Sullivan Anderson" />
