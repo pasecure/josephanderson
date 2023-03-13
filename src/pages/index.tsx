@@ -346,7 +346,7 @@ const Index: NextPage = () => {
                         wealth potential and preservation standpoint, protection against major
                         facets of life, such as taxes, inflation, lawsuit, death, and disability.
                       </p>
-                      <p className="mt-3 text-sm">
+                      <p className="mt-3 text-justify text-sm">
                         <span className="font-semibold">My Process</span> Helping you reach your
                         goals starts with getting to know you personally. Through understanding what
                         matters most to you, together I can help you create a financial approach
@@ -354,13 +354,13 @@ const Index: NextPage = () => {
                         built around your life priorities and the advice you need to help you
                         address fluctuations in the market and changes in your life.
                       </p>
-                      <p className="mt-3 text-sm">
+                      <p className="mt-3 text-justify text-sm">
                         <span className="font-semibold"> Years of Experience</span>Years of
                         Experience I started my financial planning practice with Citigroup Global
                         Market in 2018. Prior to this, I&apos;ve worked with other Financial Firms
                       </p>
 
-                      <p className="mt-3 text-sm">
+                      <p className="mt-3 text-justify text-sm">
                         <span className="font-semibold">FINRA Report</span> <br />
                         <Link href="https://files.brokercheck.finra.org/individual/individual_5964796.pdf">
                           <a className="text-sm text-[#60a5fa] underline">
@@ -373,7 +373,7 @@ const Index: NextPage = () => {
                     <div className="mt-[64px] bg-[#f7fafc]">
                       <h1 className="text-center text-lg font-bold lg:text-2xl">Certifications</h1>
 
-                      <p className="mt-3 text-sm">
+                      <p className="mt-3 text-justify text-sm">
                         <span className="font-semibold">
                           {' '}
                           CERTIFIED FINANCIAL PLANNER™ Professional
@@ -391,7 +391,7 @@ const Index: NextPage = () => {
                         professional for a career-long commitment to meeting the ever-changing
                         financial needs of clients.
                       </p>
-                      <p className="mt-3 text-sm">
+                      <p className="mt-3 text-justify text-sm">
                         <span className="font-semibold">Chartered Life Underwriter (CLU®)</span>
                         The CLU® is respected internationally as risk management&apos;s highest
                         standard of knowledge and trust. Since 1927, The American College has
@@ -414,13 +414,13 @@ const Index: NextPage = () => {
                         Get to know my dedicated team
                       </h1>
 
-                      <p className="mt-3 text-sm">
+                      <p className="mt-3 text-justify text-sm">
                         As a Wealth Management Advisor affiliated with Citigroup Global Market, I am
                         committed to helping my clients whether they are concerned for their own
                         financial needs or those of their family or business. I don&apos;t do it
                         alone. Here you will find a listing of the people who help make it happen.
                       </p>
-                      <p className="mt-3 text-sm">
+                      <p className="mt-3 text-justify text-sm">
                         Together, we stand committed to providing the best customer service
                         possible. If you have a problem or need assistance at any time, please let
                         us know.
@@ -433,7 +433,7 @@ const Index: NextPage = () => {
                         <div className="text-center sm:text-left">
                           <h1 className="text-xl font-bold">Felipe Quinn</h1>
                           <p className="mt-3 text-base">Director of Planning</p>
-                          <p className="mt-3 text-sm leading-7 opacity-70">
+                          <p className="mt-3 text-justify text-sm leading-7 opacity-70">
                             Felipe was born and raised in Johns Creek, GA, graduated from the
                             University of Georgia (Go Dawgs!) in May 2020 with a degree in Finance
                             and an emphasis in Pricing and Valuation. In her free time while in
@@ -460,7 +460,7 @@ const Index: NextPage = () => {
                         <div className="text-center sm:text-left">
                           <h1 className="text-xl font-bold">Ben Handley</h1>
                           <p className="mt-3 text-base">Director of Investment</p>
-                          <p className="mt-3 text-sm leading-7 opacity-70">
+                          <p className="mt-3 text-justify text-sm leading-7 opacity-70">
                             Felipe was born and raised in Johns Creek, GA, graduated from the
                             University of Georgia (Go Dawgs!) in May 2020 with a degree in Finance
                             and an emphasis in Pricing and Valuation. In her free time while in
@@ -487,7 +487,7 @@ const Index: NextPage = () => {
                         <div className="text-center sm:text-left">
                           <h1 className="text-xl font-bold">Ben Handley</h1>
                           <p className="mt-3 text-base">Director of Investment</p>
-                          <p className="mt-3 text-sm leading-7 opacity-70">
+                          <p className="mt-3 text-justify text-sm leading-7 opacity-70">
                             Felipe was born and raised in Johns Creek, GA, graduated from the
                             University of Georgia (Go Dawgs!) in May 2020 with a degree in Finance
                             and an emphasis in Pricing and Valuation. In her free time while in
@@ -514,7 +514,7 @@ const Index: NextPage = () => {
                         <div className="text-center sm:text-left">
                           <h1 className="text-xl font-bold">Ben Handley</h1>
                           <p className="mt-3 text-base">Director of Investment</p>
-                          <p className="mt-3 text-sm leading-7 opacity-70">
+                          <p className="mt-3 text-justify text-sm leading-7 opacity-70">
                             Felipe was born and raised in Johns Creek, GA, graduated from the
                             University of Georgia (Go Dawgs!) in May 2020 with a degree in Finance
                             and an emphasis in Pricing and Valuation. In her free time while in
@@ -541,7 +541,7 @@ const Index: NextPage = () => {
                         <div className="text-center sm:text-left">
                           <h1 className="text-xl font-bold">Ben Handley</h1>
                           <p className="mt-3 text-base">Director of Investment</p>
-                          <p className="mt-3 text-sm leading-7 opacity-70">
+                          <p className="mt-3 text-justify text-sm leading-7 opacity-70">
                             Felipe was born and raised in Johns Creek, GA, graduated from the
                             University of Georgia (Go Dawgs!) in May 2020 with a degree in Finance
                             and an emphasis in Pricing and Valuation. In her free time while in
@@ -570,7 +570,7 @@ const Index: NextPage = () => {
                         Get a financial plan that prioritizes
                       </h1>
 
-                      <p className="mt-3 text-sm">
+                      <p className="mt-3 text-justify text-sm">
                         Together, we&apos;ll look at where you are, wherever that is. I&apos;ll then
                         give you multiple strategies specifically designed to take you where you
                         want to go. Here&apos;s how we&apos;ll get it done:
@@ -594,7 +594,7 @@ const Index: NextPage = () => {
                         </svg>
                         <div>
                           <h1 className="font-medium">Look at where you are today</h1>
-                          <p className="text-sm">
+                          <p className="text-justify text-sm">
                             Your plan will help you make the most of what you already have, no
                             matter where you&lsquo;re starting from, and give you a snapshot of your
                             financial big picture.
@@ -616,7 +616,7 @@ const Index: NextPage = () => {
                         </svg>
                         <div>
                           <h1 className="font-medium">Identify where you want to go</h1>
-                          <p className="text-sm">
+                          <p className="text-justify text-sm">
                             Whether it&lsquo;s shorter-term goals like managing your debt, or
                             longer-term ones like saving for a new home, or retirement, your
                             financial plan will show you how you&lsquo;re tracking, help you
@@ -641,7 +641,7 @@ const Index: NextPage = () => {
                           <h1 className="font-medium">
                             Put together range of options to get you there
                           </h1>
-                          <p className="text-sm">
+                          <p className="text-justify text-sm">
                             Looking across all your goals, you&lsquo;ll get personalized
                             recommendations and strategies to grow your wealth while making sure
                             everything&lsquo;s protected. And I&lsquo;ll help you determine the
@@ -656,11 +656,11 @@ const Index: NextPage = () => {
                     </div>
 
                     <div className="mt-[64px]">
-                      <h1 className="text-center text-lg font-bold lg:text-2xl">
+                      <h1 className="text-center  text-lg font-bold lg:text-2xl">
                         Get a financial plan that prioritizes
                       </h1>
 
-                      <p className="mt-3 text-sm">
+                      <p className="mt-3 text-justify text-sm">
                         Our financial planning conversations don&apos;t begin with your finances.
                         Instead we start with you - your life, your family, your priorities, and
                         goals. Once we have your big picture in focus, we&apos;ll tailor a plan from
