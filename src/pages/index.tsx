@@ -124,7 +124,7 @@ const Index: NextPage = () => {
                     />
                   </svg>
                   <Link href="mailto:josephanderson@citi.groupglobalmarkets.com">
-                    <a className="text-xs text-[#60a5fa] underline">
+                    <a className="text-sm text-[#60a5fa] underline">
                       josephanderson@citi.groupglobalmarkets.com
                     </a>
                   </Link>
