@@ -95,7 +95,7 @@ export const EmploymentFormsFooter: React.FunctionComponent = () => {
         </div>
 
         <div className="mt-6 h-[1px] w-full bg-[#1b1f2733]"></div>
-        <p className="mt-[56px] text-xs">
+        <p className="mt-[56px] text-justify text-xs">
           Securities and Mutual Fund orders can only be placed by phone or in person. We will not
           process orders sent electronically, including but not limited to, communications sent via
           the Internet, mobile and cellular technologies, and electronic mail. Also, communications
@@ -103,11 +103,11 @@ export const EmploymentFormsFooter: React.FunctionComponent = () => {
           electronic means. If you receive communications in error, please contact the sender and
           delete the material from any electronic means on which it exists.
         </p>
-        <p className="mt-3 text-xs">
+        <p className="mt-3 text-justify  text-xs">
           © 2022 The PA Securities is an affiliate of Citi Private Bank a business of Citigroup
           Global Market inc. All rights reserved.
         </p>
-        <p className="mt-3 text-xs">
+        <p className="mt-3 text-justify text-xs">
           Citigroup Global Market is the marketing name for The Citigroup Global Market Life
           Insurance Company (CM) (life and disability Insurance, annuities, and life insurance with
           long-term care benefits) and its subsidiaries, including Citigroup Global Market Long Term
@@ -117,7 +117,7 @@ export const EmploymentFormsFooter: React.FunctionComponent = () => {
           Management Company® (CGMWMC) (investment advisory and trust services), a federal savings
           bank. CGM and its subsidiaries are in Houston.
         </p>
-        <p className="mt-3 text-xs">
+        <p className="mt-3 text-justify text-xs">
           The products and services referenced are offered and sold only by appropriately appointed
           and licensed entities and financial advisors and representatives. Financial advisors and
           representatives and their staff might not represent all entities shown or provide all the
@@ -127,17 +127,17 @@ export const EmploymentFormsFooter: React.FunctionComponent = () => {
           disclose their status as an advisor of CGWMC are credentialed as CGWMC representatives to
           provide investment advisory services.
         </p>
-        <p className="mt-3 text-xs">
+        <p className="mt-3 text-justify text-xs">
           Depending on the products and/or services being recommended or considered, refer to the
           appropriate disclosure brochure for important information on the Citigroup Global Market
           Wealth Management Company, its services, fees and conflicts of interest before investing.
           To obtain a copy of one or more of these brochures, contact your representative.
         </p>
-        <p className="mt-3 text-xs">
+        <p className="mt-3 text-justify text-xs">
           Joseph Sullivan Anderson is primarily licensed in TX and may be licensed in other states.
         </p>
 
-        <div className="bg-[url('/images/logo.svg')]"></div>
+        <div className="mt-8 h-[56px] w-[212px] bg-[url('/new_assets/logo.png')] bg-cover bg-center bg-no-repeat"></div>
       </footer>
 
       <style jsx>{`
