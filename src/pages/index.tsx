@@ -9,7 +9,7 @@ import { NextSeo } from 'next-seo';
 import { Helmet } from 'react-helmet';
 
 const SEO = {
-  title: 'Explore - Joseph Sullivan Anderson',
+  title: 'Joseph Anderson',
   description: 'Joseph Sullivan Anderson',
   openGraph: {
     type: 'website',
@@ -27,7 +27,7 @@ const Index: NextPage = () => {
     <NextSeo {...SEO} />
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Explore - Joseph Sullivan Anderson</title>
+        <title>Joseph Anderson</title>
         <meta name="description" content="Joseph Sullivan Anderson" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Helmet>
