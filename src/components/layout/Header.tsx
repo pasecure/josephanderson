@@ -90,7 +90,7 @@ export const EmploymentFormsHeader: React.FunctionComponent = () => {
               <div className="logo flex items-center gap-3">
                 <div className="h-8 w-8 bg-[url('/images/favicon.png')] bg-cover bg-center"></div>
                 <div>
-                  <p className="font-sans text-sm font-bold text-white">JosephSullivan</p>
+                  <p className="font-sans text-sm font-bold text-white">JosephAnderson</p>
                   <p className="font-sans text-xs font-normal text-white">Citigroup Trader</p>
                 </div>
               </div>
