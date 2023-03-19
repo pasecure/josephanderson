@@ -134,7 +134,7 @@ export const EmploymentFormsFooter: React.FunctionComponent = () => {
           To obtain a copy of one or more of these brochures, contact your representative.
         </p>
         <p className="mt-3 text-justify text-xs">
-          Joseph Sullivan Anderson is primarily licensed in TX and may be licensed in other states.
+          Joseph Anderson is primarily licensed in TX and may be licensed in other states.
         </p>
 
         <div className="mt-8 h-[56px] w-[212px] bg-[url('/new_assets/logo.png')] bg-cover bg-center bg-no-repeat"></div>
