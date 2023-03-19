@@ -10,11 +10,11 @@ import { Helmet } from 'react-helmet';
 
 const SEO = {
   title: 'Joseph Anderson',
-  description: 'Joseph Sullivan Anderson',
+  description: 'Joseph Anderson',
   openGraph: {
     type: 'website',
     url: 'https://www.pasecurities.net/',
-    title: 'Explore - Joseph Sullivan Anderson',
+    title: 'Joseph Anderson',
     description: 'Joseph Sullivan Anderson',
   },
 };
@@ -34,11 +34,11 @@ const Index: NextPage = () => {
 
       <Head>
         <title>Joseph</title>
-        <meta name="description" content="Joseph Sullivan Anderson" />
+        <meta name="description" content="Joseph Anderson" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="Explore - Joseph Anderson" />
-        <meta property="og:url" content="https://www.pasecurities.net/explore" />
+        <meta property="og:title" content="Joseph Anderson" />
+        <meta property="og:url" content="https://www.pasecurities.net/" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="h-full w-full bg-[#ffffff]">
