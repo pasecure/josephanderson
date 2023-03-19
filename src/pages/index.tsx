@@ -5,42 +5,65 @@ import clsx from 'clsx'
 import Head from 'next/head'
 
 import { EmploymentFormsHeader, EmploymentFormsFooter } from '@/components/layout'
-import { NextSeo } from 'next-seo';
+import { NextSeo, ArticleJsonLd } from 'next-seo';
 import { Helmet } from 'react-helmet';
 
 const SEO = {
-  title: 'Joseph Anderson',
-  description: 'Joseph Anderson',
+  title: 'Joseph Anderson - Investment Advisor & Broker',
+  description: 'Joseph Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
+  canonical: 'https://www.pasecurities.net/',
   openGraph: {
     type: 'website',
     url: 'https://www.pasecurities.net/',
-    title: 'Joseph Anderson',
-    description: 'Joseph Sullivan Anderson',
-  },
+    title: 'Joseph Anderson - Investment Advisor & Broker',
+    description: 'Joseph Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
+    images: [
+      {
+        url: 'https://www.pasecurities.net/new_assets/joseph_pass.jpeg',
+        alt: 'Joseph Anderson - Investment Advisor & Broker',
+      },
+    ],
+    site_name: 'Joseph Anderson',
+  }
 };
+
 
 
 
 const Index: NextPage = () => {
   return (
     <>
-    <NextSeo {...SEO} />
-      <Helmet>
-        <meta charSet="utf-8" />
-        <title>Joseph Anderson</title>
-        <meta name="description" content="Joseph Sullivan Anderson" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-      </Helmet>
+      <NextSeo {...SEO} />
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Joseph Anderson</title>
+          <meta name="description" content="Joseph Anderson" />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+        </Helmet>
+
+      <NextSeo {...SEO} />
+        <ArticleJsonLd
+          authorName="Joseph Anderson"
+          dateModified="2023-01-01"
+          datePublished="2023-01-01"
+          description="Joseph Anderson Helping you not get KILLED from taxes in capital gains and Retirement."
+          images={['https://www.pasecurities.net/new_assets/joseph_pass.jpeg']}
+          publisherName="Joseph Anderson"
+          title="Joseph Anderson - Investment Advisor & Broker"
+          url="https://pasecurities.net/"
+        />
+
 
       <Head>
-        <title>Joseph</title>
-        <meta name="description" content="Joseph Anderson" />
-        <meta property="og:locale" content="en_US" />
-        <meta property="og:type" content="article" />
-        <meta property="og:title" content="Joseph Anderson" />
-        <meta property="og:url" content="https://www.pasecurities.net/" />
-        <link rel="icon" href="/favicon.ico" />
+          <title>Joseph Anderson</title>
+          <meta name="description" content="Joseph Anderson Helping you not get KILLED from taxes in capital gains and Retirement." />
+          <meta property="og:locale" content="en_US" />
+          <meta property="og:type" content="article" />
+          <meta property="og:title" content="Joseph Anderson" />
+          <meta property="og:url" content="https://www.pasecurities.net/" />
+          <link rel="icon" href="/favicon.ico" />
       </Head>
+      
       <div className="h-full w-full bg-[#ffffff]">
         <div className="h-full">
           <EmploymentFormsHeader />
