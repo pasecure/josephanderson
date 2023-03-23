@@ -98,7 +98,7 @@ const Index: NextPage = () => {
 
                 <div className="mt-2 text-center">
                   <strong>AREA OF FOCUS</strong>
-                  <!--testing-->
+                  /*--testing--*/
 
                   <div className="mt-3 flex flex-wrap items-center gap-2 text-xs">
                     <button className="rounded-md bg-green-200 py-2 px-3 text-green-800">
