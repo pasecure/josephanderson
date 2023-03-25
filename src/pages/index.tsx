@@ -56,7 +56,8 @@ const Index: NextPage = () => {
 
       <Head>
           <title>Joseph Anderson</title>
-          <meta name="description" content="Joseph Anderson Helping you not get KILLED from taxes in capital gains and Retirement." />
+          <meta name="author" content="Joseph Sullivan Anderson, investment, broker, finance , advisor" />
+          <meta name="description" content="Investment Advisor & Broker.CFP®, CPA, ChFC.We specialize in comprehensive financial planning for pre-retirees, small business owners, CPAs, physicians, and other high-income earners. We partner closely with our clients to develop personalized financial plans that help them coordinate and manage the key areas of their financial lives - wealth, financial risk, and the impact of taxes." />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
           <meta property="og:title" content="Joseph Anderson" />
