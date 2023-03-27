@@ -289,16 +289,16 @@ const Index: NextPage = () => {
                       </p>
                       <p className="mt-3 text-justify text-sm lg:text-left">
                         As a licensed and experienced CPA, as well as a CERTIFIED FINANCIAL PLANNER™
-                        professional, Joseph Anderson has a robust financial planning practice that focuses
+                        professional, Joseph Sullivan Anderson has a robust financial planning practice that focuses
                         on helping to ensure a perpetual and continuous flow of income for my
                         clients. As the road to financial success never presents a perfectly
                         straight line, my priority is to help mitigate all threats to income at any
                         possible point in the lifecycle. To help create the highest levels of
                         financial protection, my clients understand the importance of cash flow,
                         rather than rate of return. From working with Monroe Vos Consulting Group as
-                        an analyst and Joseph Anderson Having built his own practice, He understands the ups
+                        an analyst and Joseph Sullivan Anderson Having built his own practice, He understands the ups
                         and downs of each business cycle and the empathy and confidence advisors
-                        need when stress levels are high and motivation wanes. Now, Joseph Anderson partners
+                        need when stress levels are high and motivation wanes. Now, Joseph Sullivan Anderson partners
                         with CitiGroup, which is comprised of a national team of specialists
                         experienced in estate planning, business continuity & succession, and
                         executive benefits, to help serve our clients even more robustly.
@@ -373,11 +373,11 @@ const Index: NextPage = () => {
                       <h1 className="text-center text-lg font-bold lg:text-2xl">PERSONAL</h1>
 
                       <p className="mt-3 text-justify text-sm lg:text-left">
-                        Mr Joseph Anderson a born competitor, He&apos;s at his best when part of a team. From
+                        Mr Joseph Sullivan Anderson a born competitor, He&apos;s at his best when part of a team. From
                         his days playing college football to coaching his son&apos;s baseball teams
                         today, He has used his learnings to cultivate a strong team mentality at
                         work and at home. He is immensely proud of the all-star team He has built
-                        with his wife Julia and their son Prestly. Mr Joseph Anderson Attended LSU where he
+                        with his wife Julia and their son Prestly. Mr Joseph Sullivan Anderson Attended LSU where he
                         obtained a Bachelors in Finance and Masters in Accounting.
                       </p>
                       <div className="mt-[36px] h-[817px] w-full bg-[url('/images/best_forbes.jpeg')] bg-cover bg-center object-cover"></div>
@@ -411,7 +411,7 @@ const Index: NextPage = () => {
                         <span className="font-semibold">FINRA Report</span> <br />
                         <Link href="/">
                           <a className="text-sm text-[#60a5fa] underline">
-                            Joseph Anderson&apos;s Financial Record and Verifiable Documentation
+                            Joseph Sullivan Anderson&apos;s Financial Record and Verifiable Documentation
                           </a>
                         </Link>
                       </p>
@@ -489,7 +489,7 @@ const Index: NextPage = () => {
                             sporting events. Felipe loves traveling to new places with both family
                             and friends. A couple of her favorite cities she has visited are
                             Barcelona, Spain and Sydney, Australia. She is also a big fan of Georgia
-                            football & the Green Bay Packers! Felipe joined Joseph Anderson&apos;s team 
+                            football & the Green Bay Packers! Felipe joined Joseph Sullivan Anderson&apos;s team 
                             in September 2020. As an Associate Wealth Management
                             Advisor, Felipe holds the following licenses and certifications: •
                             Series 7 General Securities Registered Representative license • Series
