@@ -73,7 +73,7 @@ const Index: NextPage = () => {
             <div className="mt-[-120px]">
               <div className="h-[259px]  bg-[url('/new_assets/joseph_pass.jpeg')] bg-cover bg-center object-cover lg:w-[259px]"></div>
               <button className="mt-4 w-full bg-[#0f497b] py-3 text-center text-white">
-                <Link href="https://wa.me/message/FTS4MEM5Y3UOM1">Let&apos;s Connect</Link>
+                <Link href="/">Let&apos;s Connect</Link>
               </button>
             </div>
             <div className="mt-6">
@@ -180,7 +180,7 @@ const Index: NextPage = () => {
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 448 512">
                     <path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" />
                   </svg>
-                  <Link href="https://instagram.com/joseph_citigroup_globalmarket?igshid=YmMyMTA2M2Y=">
+                  <Link href="/">
                     <a className="text-sm text-[#60a5fa] underline">
                       @Joseph_Citigroup_globalmarket
                     </a>
@@ -203,7 +203,7 @@ const Index: NextPage = () => {
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" viewBox="0 0 256 256">
                     <path d="M236.88 26.19a9 9 0 00-9.16-1.57L25.06 103.93a14.22 14.22 0 002.43 27.21L80 141.45V200a15.92 15.92 0 0010 14.83 15.91 15.91 0 0017.51-3.73l25.32-26.26L173 220a15.88 15.88 0 0010.51 4 16.3 16.3 0 005-.79 15.85 15.85 0 0010.67-11.63L239.77 35a9 9 0 00-2.89-8.81zm-61.14 36l-89.59 64.16-49.6-9.73zM96 200v-47.48l24.79 21.74zm87.53 8l-82.68-72.5 119-85.29z"></path>
                   </svg>
-                  <Link href="https://t.me/Joseph_citigroupglobalmarket">
+                  <Link href="/">
                     <a target="_blank" className="text-sm text-[#60a5fa] underline">
                       @Joseph_Citigroup_globalmarket
                     </a>
@@ -363,7 +363,7 @@ const Index: NextPage = () => {
                       Ready to work together?
                     </h1>
                     <button className="mt-4 w-[full] bg-[#db230b] px-6 py-3 text-center text-white lg:w-[20%]">
-                      <Link href="https://wa.me/message/FTS4MEM5Y3UOM1">Let&apos;s Connect</Link>
+                      <Link href="/">Let&apos;s Connect</Link>
                     </button>
                   </div>
                 </Tab.Panel>
@@ -409,7 +409,7 @@ const Index: NextPage = () => {
 
                       <p className="mt-3 text-justify text-sm">
                         <span className="font-semibold">FINRA Report</span> <br />
-                        <Link href="https://files.brokercheck.finra.org/individual/individual_5964796.pdf">
+                        <Link href="/">
                           <a className="text-sm text-[#60a5fa] underline">
                             Joseph Anderson&apos;s Financial Record and Verifiable Documentation
                           </a>
