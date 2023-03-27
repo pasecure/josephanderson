@@ -10,13 +10,13 @@ import { Helmet } from 'react-helmet';
 
 const SEO = {
   title: 'Joseph Sullivan Anderson - Investment Advisor & Broker',
-  description: 'Joseph Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
+  description: 'Joseph Sullivan Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
   canonical: 'https://www.pasecurities.net/',
   openGraph: {
     type: 'website',
     url: 'https://www.pasecurities.net/',
     title: 'Joseph Sullivan Anderson - Investment Advisor & Broker',
-    description: 'Joseph Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
+    description: 'Joseph Sullivan Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
     images: [
       {
         url: 'https://www.pasecurities.net/new_assets/joseph_pass.jpeg',
