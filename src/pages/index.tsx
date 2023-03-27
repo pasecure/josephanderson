@@ -9,21 +9,21 @@ import { NextSeo, ArticleJsonLd } from 'next-seo';
 import { Helmet } from 'react-helmet';
 
 const SEO = {
-  title: 'Joseph Anderson - Investment Advisor & Broker',
+  title: 'Joseph Sullivan Anderson - Investment Advisor & Broker',
   description: 'Joseph Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
   canonical: 'https://www.pasecurities.net/',
   openGraph: {
     type: 'website',
     url: 'https://www.pasecurities.net/',
-    title: 'Joseph Anderson - Investment Advisor & Broker',
+    title: 'Joseph Sullivan Anderson - Investment Advisor & Broker',
     description: 'Joseph Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
     images: [
       {
         url: 'https://www.pasecurities.net/new_assets/joseph_pass.jpeg',
-        alt: 'Joseph Anderson - Investment Advisor & Broker',
+        alt: 'Joseph Sullivan Anderson - Investment Advisor & Broker',
       },
     ],
-    site_name: 'Joseph Anderson',
+    site_name: 'Joseph Sullivan Anderson',
   }
 };
 
@@ -36,31 +36,31 @@ const Index: NextPage = () => {
       <NextSeo {...SEO} />
         <Helmet>
           <meta charSet="utf-8" />
-          <title>Joseph Anderson</title>
-          <meta name="description" content="Joseph Anderson" />
+          <title>Joseph Sullivan Anderson</title>
+          <meta name="description" content="Joseph Sullivan Anderson" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
         </Helmet>
 
       <NextSeo {...SEO} />
         <ArticleJsonLd
-          authorName="Joseph Anderson"
+          authorName="Joseph Sullivan Anderson"
           dateModified="2023-01-01"
           datePublished="2023-01-01"
-          description="Joseph Anderson Helping you not get KILLED from taxes in capital gains and Retirement."
+          description="Joseph Sullivan Anderson Helping you not get KILLED from taxes in capital gains and Retirement."
           images={['https://www.pasecurities.net/new_assets/joseph_pass.jpeg']}
-          publisherName="Joseph Anderson"
-          title="Joseph Anderson - Investment Advisor & Broker"
+          publisherName="Joseph Sullivan Anderson"
+          title="Joseph Sullivan Anderson - Investment Advisor & Broker"
           url="https://pasecurities.net/"
         />
 
 
       <Head>
-          <title>Joseph Anderson</title>
+          <title>Joseph Sullivan Anderson</title>
           <meta name="author" content="Joseph Sullivan Anderson, investment, broker, finance , advisor" />
           <meta name="description" content="Investment Advisor & Broker.CFP®, CPA, ChFC.We specialize in comprehensive financial planning for pre-retirees, small business owners, CPAs, physicians, and other high-income earners. We partner closely with our clients to develop personalized financial plans that help them coordinate and manage the key areas of their financial lives - wealth, financial risk, and the impact of taxes." />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
-          <meta property="og:title" content="Joseph Anderson" />
+          <meta property="og:title" content="Joseph Sullivan Anderson" />
           <meta property="og:url" content="https://www.pasecurities.net/" />
           <link rel="icon" href="/favicon.ico" />
       </Head>
