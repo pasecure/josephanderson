@@ -392,7 +392,7 @@ const Index: NextPage = () => {
                         with his wife Julia and their son Prestly. Mr Joseph Sullivan Anderson Attended LSU where he
                         obtained a Bachelors in Finance and Masters in Accounting.
                       </p>
-                      <div className="mt-[36px] h-[817px] w-full bg-[url('/new_assets/new_forbes.jpeg')] bg-cover bg-center object-cover"></div>
+                      <div className="mt-[36px] h-[817px] w-full bg-[url('/new_assets/new_group_two.jpeg')] bg-cover bg-center object-cover"></div>
                     </div>
 
                     <div className="mt-[64px] bg-[#f7fafc]">
