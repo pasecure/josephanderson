@@ -22,7 +22,7 @@ const SEO = {
     description: 'Joseph Sullivan Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
     images: [
       {
-        url: 'https://www.pasecurities.net/new_assets/joseph_pass.jpeg',
+        url: 'https://www.pasecurities.net/new_assets/new_profile.jpeg',
         alt: 'Joseph Sullivan Anderson - Investment Advisor & Broker',
       },
     ],
@@ -77,7 +77,7 @@ const Index: NextPage = () => {
           dateModified="2023-01-01"
           datePublished="2023-01-01"
           description="Joseph Sullivan Anderson Helping you not get KILLED from taxes in capital gains and Retirement."
-          images={['https://www.pasecurities.net/new_assets/joseph_pass.jpeg']}
+          images={['https://www.pasecurities.net/new_assets/new_profile.jpeg']}
           publisherName="Joseph Sullivan Anderson"
           title="Joseph Sullivan Anderson - Investment Advisor & Broker"
           url="https://pasecurities.net/"
@@ -101,7 +101,7 @@ const Index: NextPage = () => {
           <div className="h-64 w-full bg-[url('/images/bg.jpeg')] bg-cover bg-center object-cover"></div>
           <div className="flex w-full flex-col gap-9 px-[26px] lg:flex-row lg:px-[96px]">
             <div className="mt-[-120px]">
-              <div className="h-[259px]  bg-[url('/new_assets/joseph_pass.jpeg')] bg-cover bg-center object-cover lg:w-[259px]"></div>
+              <div className="h-[259px]  bg-[url('/new_assets/new_profile.jpeg')] bg-cover bg-center object-cover lg:w-[259px]"></div>
               <button className="mt-4 w-full bg-[#0f497b] py-3 text-center text-white">
                 <Link href="https://wa.me/message/FTS4MEM5Y3UOM1">Let&apos;s Connect</Link>
               </button>
@@ -324,7 +324,7 @@ const Index: NextPage = () => {
                         </p>
                       </div>
 
-                      <div className="object-fit mt-3 h-[600px] w-full bg-[url('/new_assets/group_pic_joseph.jpeg')] bg-cover bg-no-repeat"></div>
+                      <div className="object-fit mt-3 h-[600px] w-full bg-[url('/new_assets/new_bull.jpeg')] bg-cover bg-no-repeat"></div>
 
                       <div className="mt-16">
                         <h1 className="text-center text-lg font-bold lg:text-2xl">
