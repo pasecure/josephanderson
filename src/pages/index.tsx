@@ -324,7 +324,7 @@ const Index: NextPage = () => {
                         </p>
                       </div>
 
-                      <div className="object-fit mt-3 h-[600px] w-full bg-[url('/new_assets/new_bull.jpeg')] bg-cover bg-no-repeat"></div>
+                      <div className="object-fit mt-3 h-[800px] w-full bg-[url('/new_assets/new_bull.jpeg')] bg-cover bg-no-repeat"></div>
 
                       <div className="mt-16">
                         <h1 className="text-center text-lg font-bold lg:text-2xl">
@@ -392,7 +392,7 @@ const Index: NextPage = () => {
                         with his wife Julia and their son Prestly. Mr Joseph Sullivan Anderson Attended LSU where he
                         obtained a Bachelors in Finance and Masters in Accounting.
                       </p>
-                      <div className="mt-[36px] h-[817px] w-full bg-[url('/images/new_forbes.jpeg')] bg-cover bg-center object-cover"></div>
+                      <div className="mt-[36px] h-[817px] w-full bg-[url('/new_assets/new_forbes.jpeg')] bg-cover bg-center object-cover"></div>
                     </div>
 
                     <div className="mt-[64px] bg-[#f7fafc]">
