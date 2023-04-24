@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { Tab } from '@headlessui/react'
 import clsx from 'clsx'
 import Head from 'next/head'
+import Image from 'next/image'
 
 import { EmploymentFormsHeader } from '@/components/layout'
 import { NextSeo, ArticleJsonLd } from 'next-seo';
