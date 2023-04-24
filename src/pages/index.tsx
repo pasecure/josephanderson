@@ -235,7 +235,7 @@ const Index: NextPage = () => {
                     <path d="M236.88 26.19a9 9 0 00-9.16-1.57L25.06 103.93a14.22 14.22 0 002.43 27.21L80 141.45V200a15.92 15.92 0 0010 14.83 15.91 15.91 0 0017.51-3.73l25.32-26.26L173 220a15.88 15.88 0 0010.51 4 16.3 16.3 0 005-.79 15.85 15.85 0 0010.67-11.63L239.77 35a9 9 0 00-2.89-8.81zm-61.14 36l-89.59 64.16-49.6-9.73zM96 200v-47.48l24.79 21.74zm87.53 8l-82.68-72.5 119-85.29z"></path>
                   </svg>
                   <Link href="https://t.me/Joseph_citigroup_globalmarket">
-                    <a target="_blank" className="text-sm text-[#60a5fa] underline">
+                    <a className="text-sm text-[#60a5fa] underline">
                       @Joseph_Citigroup_globalmarket
                     </a>
                   </Link>
