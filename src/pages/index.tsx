@@ -101,7 +101,7 @@ const Index: NextPage = () => {
           <div className="h-64 w-full bg-[url('/images/bg.jpeg')] bg-cover bg-center object-cover"></div>
           <div className="flex w-full flex-col gap-9 px-[26px] lg:flex-row lg:px-[96px]">
             <div className="mt-[-120px]">
-              <div className="h-[259px]  bg-[url('/new_assets/new_profile.jpeg')] bg-cover bg-center object-cover lg:w-[259px]"></div>
+              <div className="h-[259px]  bg-[url('/new_assets/new_profile.jpeg')] bg-cover object-cover lg:w-[259px] lg:bg-center"></div>
               <button className="mt-4 w-full bg-[#0f497b] py-3 text-center text-white">
                 <Link href="https://wa.me/message/FTS4MEM5Y3UOM1">Let&apos;s Connect</Link>
               </button>
@@ -200,9 +200,9 @@ const Index: NextPage = () => {
                       d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75"
                     />
                   </svg>
-                  <Link href="mailto:josephanderson@citi.groupglobalmarkets.com">
+                  <Link href="mailto:josephanderson@pasecurities.net">
                     <a className="text-xs text-[#60a5fa] underline">
-                      josephanderson@citi.groupglobalmarkets.com
+                      josephanderson@pasecurities.net
                     </a>
                   </Link>
                 </div>
@@ -324,7 +324,17 @@ const Index: NextPage = () => {
                         </p>
                       </div>
 
-                      <div className="object-fit mt-3 h-[800px] w-full bg-[url('/new_assets/new_bull.jpeg')] bg-cover bg-no-repeat"></div>
+
+                      <div>
+                      <Image
+                        src="/new_assets/new_bull.jpeg"
+                        alt="Picture of the author"
+                        width={500}
+                        height={400}
+                        layout="responsive"
+                        priority
+                      />
+                    </div>
 
                       <div className="mt-16">
                         <h1 className="text-center text-lg font-bold lg:text-2xl">
@@ -392,7 +402,16 @@ const Index: NextPage = () => {
                         with his wife Julia and their son Prestly. Mr Joseph Sullivan Anderson Attended LSU where he
                         obtained a Bachelors in Finance and Masters in Accounting.
                       </p>
-                      <div className="mt-[36px] h-[817px] w-full bg-[url('/new_assets/new_group_two.jpeg')] bg-cover bg-center object-cover"></div>
+                      <div className="mt-[36px]">
+                        <Image
+                          src="/new_assets/new_group_two.jpeg"
+                          alt="Picture of the author"
+                          width={500}
+                          height={400}
+                          layout="responsive"
+                          priority
+                        />
+                      </div>
                     </div>
 
                     <div className="mt-[64px] bg-[#f7fafc]">
