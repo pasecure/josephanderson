@@ -213,7 +213,7 @@ const Index: NextPage = () => {
                   </svg>
                   <Link href="https://instagram.com/joseph_citigroup_globalmarket?igshid=YmMyMTA2M2Y=">
                     <a className="text-sm text-[#60a5fa] underline">
-                      @Joseph_Citigroup_globalmarket
+                      @Josephanderson_citigroup
                     </a>
                   </Link>
                 </div>
