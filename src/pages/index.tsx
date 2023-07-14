@@ -13,21 +13,21 @@ import { Helmet } from 'react-helmet';
 
 
 const SEO = {
-  title: 'Joseph Sullivan Anderson - Investment Advisor & Broker',
-  description: 'Joseph Sullivan Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
+  title: 'Joseph Sylvan Anderson - Investment Advisor & Broker',
+  description: 'Joseph Sylvan Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
   canonical: 'https://www.pasecurities.net/',
   openGraph: {
     type: 'website',
     url: 'https://www.pasecurities.net/',
-    title: 'Joseph Sullivan Anderson - Investment Advisor & Broker',
-    description: 'Joseph Sullivan Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
+    title: 'Joseph Sylvan Anderson - Investment Advisor & Broker',
+    description: 'Joseph Sylvan Anderson Helping you not get KILLED from taxes in capital gains and Retirement.',
     images: [
       {
         url: 'https://www.pasecurities.net/new_assets/new_profile.jpeg',
-        alt: 'Joseph Sullivan Anderson - Investment Advisor & Broker',
+        alt: 'Joseph Sylvan Anderson - Investment Advisor & Broker',
       },
     ],
-    site_name: 'Joseph Sullivan Anderson',
+    site_name: 'Joseph Sylvan Anderson',
   }
 };
 
@@ -67,31 +67,31 @@ const Index: NextPage = () => {
       <NextSeo {...SEO} />
         <Helmet>
           <meta charSet="utf-8" />
-          <title>Joseph Sullivan Anderson</title>
-          <meta name="description" content="Joseph Sullivan Anderson" />
+          <title>Joseph Sylvan Anderson</title>
+          <meta name="description" content="Joseph Sylvan Anderson" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
         </Helmet>
 
       <NextSeo {...SEO} />
         <ArticleJsonLd
-          authorName="Joseph Sullivan Anderson"
+          authorName="Joseph Sylvan Anderson"
           dateModified="2023-01-01"
           datePublished="2023-01-01"
-          description="Joseph Sullivan Anderson Helping you not get KILLED from taxes in capital gains and Retirement."
+          description="Joseph Sylvan Anderson Helping you not get KILLED from taxes in capital gains and Retirement."
           images={['https://www.pasecurities.net/new_assets/new_profile.jpeg']}
-          publisherName="Joseph Sullivan Anderson"
-          title="Joseph Sullivan Anderson - Investment Advisor & Broker"
+          publisherName="Joseph Sylvan Anderson"
+          title="Joseph Sylvan Anderson - Investment Advisor & Broker"
           url="https://pasecurities.net/"
         />
 
 
       <Head>
-          <title>Joseph Sullivan Anderson</title>
-          <meta name="author" content="Joseph Sullivan Anderson, investment, broker, finance , advisor" />
+          <title>Joseph Sylvan Anderson</title>
+          <meta name="author" content="Joseph Sylvan Anderson, investment, broker, finance , advisor" />
           <meta name="description" content="Investment Advisor & Broker.CFP®, CPA, ChFC.We specialize in comprehensive financial planning for pre-retirees, small business owners, CPAs, physicians, and other high-income earners. We partner closely with our clients to develop personalized financial plans that help them coordinate and manage the key areas of their financial lives - wealth, financial risk, and the impact of taxes." />
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="article" />
-          <meta property="og:title" content="Joseph Sullivan Anderson" />
+          <meta property="og:title" content="Joseph Sylvan Anderson" />
           <meta property="og:url" content="https://www.pasecurities.net/" />
           <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -109,7 +109,7 @@ const Index: NextPage = () => {
             </div>
             <div className="mt-6">
               <h1 className="text-center font-sans text-3xl font-bold lg:text-start">
-                Joseph Sullivan Anderson
+                Joseph Sylvan Anderson
               </h1>
               <div className="mt-3 hidden items-center  gap-2 sm:flex">
                 <p className="opacity-70">Investment Advisor & Broker</p>{' '}
@@ -310,7 +310,7 @@ const Index: NextPage = () => {
                           Financial Goals.&quot;
                         </h1>
                         <h1 className="mt-3 text-center text-lg font-bold lg:text-2xl">
-                          -- Joseph Sullivan Anderson Wealth Management
+                          -- Joseph Sylvan Anderson Wealth Management
                         </h1>
 
                         <p className="mt-3 text-justify text-sm lg:text-left">
@@ -396,11 +396,11 @@ const Index: NextPage = () => {
                       <h1 className="text-center text-lg font-bold lg:text-2xl">PERSONAL</h1>
 
                       <p className="mt-3 text-justify text-sm lg:text-left">
-                        Mr Joseph Sullivan Anderson a born competitor, He&apos;s at his best when part of a team. From
+                        Mr Joseph Sylvan Anderson a born competitor, He&apos;s at his best when part of a team. From
                         his days playing college football to coaching his son&apos;s baseball teams
                         today, He has used his learnings to cultivate a strong team mentality at
                         work and at home. He is immensely proud of the all-star team He has built
-                        with his wife Julia and their son Prestly. Mr Joseph Sullivan Anderson Attended LSU where he
+                        with his wife Julia and their son Prestly. Mr Joseph Sylvan Anderson Attended LSU where he
                         obtained a Bachelors in Finance and Masters in Accounting.
                       </p>
                       <div className="mt-[36px]">
@@ -443,7 +443,7 @@ const Index: NextPage = () => {
                         <span className="font-semibold">FINRA Report</span> <br />
                         <Link href="https://files.brokercheck.finra.org/individual/individual_5964796.pdf">
                           <a className="text-sm text-[#60a5fa] underline">
-                            Joseph Sullivan Anderson&apos;s Financial Record and Verifiable Documentation
+                            Joseph Sylvan Anderson&apos;s Financial Record and Verifiable Documentation
                           </a>
                         </Link>
                       </p>
@@ -521,7 +521,7 @@ const Index: NextPage = () => {
                             sporting events. Felipe loves traveling to new places with both family
                             and friends. A couple of her favorite cities she has visited are
                             Barcelona, Spain and Sydney, Australia. She is also a big fan of Georgia
-                            football & the Green Bay Packers! Felipe joined Joseph Sullivan Anderson&apos;s team 
+                            football & the Green Bay Packers! Felipe joined Joseph Sylvan Anderson&apos;s team 
                             in September 2020. As an Associate Wealth Management
                             Advisor, Felipe holds the following licenses and certifications: •
                             Series 7 General Securities Registered Representative license • Series
@@ -747,7 +747,7 @@ const Index: NextPage = () => {
                 </div>
 
                 <div>
-                  <h1 className=" text-2xl font-bold">Joseph Sullivan Anderson</h1>
+                  <h1 className=" text-2xl font-bold">Joseph Sylvan Anderson</h1>
                   <p className="mt-3 font-sans text-lg opacity-70">Investment Advisor & Broker</p>
                   <p className="mt-3 font-sans text-lg opacity-70">CFP®, CPA, ChFC</p>
 
