@@ -7,7 +7,7 @@ export const EmploymentFormsFooter: React.FunctionComponent = () => {
       <footer className="w-full bg-[#ffffff] py-6 px-4 md:px-10">
         <div className="md:flex md:flex-wrap md:justify-between md:gap-10">
           <div>
-            <h1 className=" text-2xl font-bold">Joseph Sullivan Anderson</h1>
+            <h1 className=" text-2xl font-bold">Joseph Sylvan Anderson</h1>
             <p className="mt-3 font-sans text-lg opacity-70">Investment Advisor & Broker</p>
             <p className="mt-3 font-sans text-lg opacity-70">CFP®, CPA, ChFC</p>
 
